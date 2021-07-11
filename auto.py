@@ -4,8 +4,8 @@ from main import check
 
 minute = random.randint(1, 10)
 CHECK_SCHEDULES = [
-    (7, minute),
-    (21, minute)
+    (8, minute),
+    (33, minute)
 ]
 
 def check_all():
